@@ -1,4 +1,4 @@
 streamlit
 librosa
 matplotlib
-st-audiorec
+streamlit-audiorec
